@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhay Sarnath Gedam</h1>
-<h3 align="center">Aspiring Full Stack Web Developer</h3>
+<h3 align="center">Innovative and observant full-stack developer with a
+specialization in MERN Stack. Eager to learn new tech skills.
+Seeking a position in a dynamic organization to do technical
+and practical projects and to enhance and apply my skills.</h3>
 
 - 👨‍💻 All of my projects are available at [https://abhay-portfolio.vercel.app/](https://abhay-portfolio.vercel.app/)
 
