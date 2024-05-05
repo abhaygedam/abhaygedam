@@ -10,7 +10,7 @@ and practical projects and to enhance and apply my skills.</h3>
 
 - 📫 How to reach me **abhaygedam1999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VmCr-atNcGx2DlUbLR7vbrdD5ys9L5-7/view](https://drive.google.com/file/d/1VmCr-atNcGx2DlUbLR7vbrdD5ys9L5-7/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1t0bFBJ4AmA9CZx5PiQzE5ZMhx9-4-GvB/view?usp=sharing](https://drive.google.com/file/d/1t0bFBJ4AmA9CZx5PiQzE5ZMhx9-4-GvB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
